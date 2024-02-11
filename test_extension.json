@@ -1,5 +1,5 @@
 {
-  "name": "test repo",
+  "repoName": "test repo",
   "version": "0.0.1",
   "repoUrl": "https://github.com/RA341/test_scripts",
   "scriptUrl": "https://raw.githubusercontent.com/RA341/test_scripts/main/test.py",
