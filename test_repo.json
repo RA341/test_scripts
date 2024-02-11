@@ -1,0 +1,11 @@
+{
+  "repoName": "awesome repo",
+  "repoUrl": "https://github.com/RA341/test_scripts",
+  "jsonUrl": "https://raw.githubusercontent.com/RA341/test_scripts/main/test_repo.json",
+  "version": "0.0.1",
+  "extensions": [
+    {
+      "metaPath": "https://raw.githubusercontent.com/RA341/test_scripts/main/test_extension.json"
+    }
+  ]
+}
