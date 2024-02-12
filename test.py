@@ -8,4 +8,4 @@ import requests
 
 def home_page(url: str) -> json:
     response = requests.get(url)
-    return json.dumps({'text': response.text})
+    return {'text': 'from google'}
